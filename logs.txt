@@ -1,0 +1,29 @@
+commit dbb14eab748c2e9388a16e2f73543038189a9e0e
+Author: Florêncio Neto <florenciooliveira.neto@gmail.com>
+Date:   Tue Feb 25 18:57:14 2025 -0300
+
+    mudança no index.html e criação do gitignore
+
+commit ebf9de62d202ce968af95e55f5bb91c3fa62441d
+Author: Florêncio Neto <florenciooliveira.neto@gmail.com>
+Date:   Tue Feb 25 18:19:08 2025 -0300
+
+    Create README.md
+
+commit f91dafe7fad938280afa7bb30abf280660d54d4a
+Author: Florêncio Neto <florenciooliveira.neto@gmail.com>
+Date:   Thu Feb 20 21:29:48 2025 -0300
+
+    deixando o jogo mais fácil
+
+commit d80467d559b027ed81f876e46ee32bc4a6ed3c49
+Author: Florêncio Neto <florenciooliveira.neto@gmail.com>
+Date:   Thu Feb 20 20:50:39 2025 -0300
+
+    alterando limite para 100
+
+commit e79c3473ca060b1a57bf17bc7986af21ce270bd2
+Author: Florêncio Neto <florenciooliveira.neto@gmail.com>
+Date:   Wed Feb 19 21:18:19 2025 -0300
+
+    projeto inicial
